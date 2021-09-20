@@ -89,7 +89,7 @@ x86.bat compiling to x86 dll
 
 ------
 
-References: 
+References:             
 https://github.com/NaniteFactory/dllmain            
 
 https://github.com/stephenfewer/ReflectiveDLLInjection             
