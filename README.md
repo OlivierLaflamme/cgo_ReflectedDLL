@@ -82,8 +82,8 @@ func main()  {
 
 Support compiling to x86 and x64
 
-x64.bat compiling to x64 dll
-x86.bat compiling to x86 dll
+x64.bat compiling to x64 dll    
+x86.bat compiling to x86 dll       
 
 ![image](https://user-images.githubusercontent.com/25066959/134020702-8907823a-aad8-4ca8-835a-40ba14e6105d.png)
 
