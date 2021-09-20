@@ -1,4 +1,4 @@
-Go combined with reflection dll technology
+Go combined with reflection dll 
 
 Reflective dll technology has been around for a long time, please Google it for the principle and so on. I'm too lazy to write here. 
 
@@ -87,3 +87,11 @@ x86.bat compiling to x86 dll
 
 ![image](https://user-images.githubusercontent.com/25066959/134020702-8907823a-aad8-4ca8-835a-40ba14e6105d.png)
 
+------
+
+References: 
+https://github.com/NaniteFactory/dllmain            
+
+https://github.com/stephenfewer/ReflectiveDLLInjection             
+
+https://github.com/rapid7/ReflectiveDLLInjection             
